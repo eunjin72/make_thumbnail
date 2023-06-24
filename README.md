@@ -1,9 +1,9 @@
-# Make_Thumbnail
-
-## What is…
+# Make Thumbnail
+<br/>
 
 - mov, mp4 한개의 영상에서 프레임을 추출하고 원하는 사이즈로 썸네일 만드는 모듈
 - OpenCV 사용
+<br/>
 
 ## How to use
 
