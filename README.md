@@ -20,3 +20,4 @@ Ex. Frame Info
 select frame : thumbnail을 만들 int{FRAME} 입력
 Enter size : int{WIDTH} int{HEIGHT} 입력 
 ```
+
